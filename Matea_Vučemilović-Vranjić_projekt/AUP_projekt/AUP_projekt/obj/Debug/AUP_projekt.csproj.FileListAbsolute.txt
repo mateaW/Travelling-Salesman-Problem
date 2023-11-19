@@ -1,0 +1,8 @@
+C:\Users\matea\OneDrive\Desktop\AUP_projekt\AUP_projekt\bin\Debug\AUP_projekt.exe.config
+C:\Users\matea\OneDrive\Desktop\AUP_projekt\AUP_projekt\bin\Debug\AUP_projekt.exe
+C:\Users\matea\OneDrive\Desktop\AUP_projekt\AUP_projekt\bin\Debug\AUP_projekt.pdb
+C:\Users\matea\OneDrive\Desktop\AUP_projekt\AUP_projekt\obj\Debug\AUP_projekt.csproj.AssemblyReference.cache
+C:\Users\matea\OneDrive\Desktop\AUP_projekt\AUP_projekt\obj\Debug\AUP_projekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\matea\OneDrive\Desktop\AUP_projekt\AUP_projekt\obj\Debug\AUP_projekt.csproj.CoreCompileInputs.cache
+C:\Users\matea\OneDrive\Desktop\AUP_projekt\AUP_projekt\obj\Debug\AUP_projekt.exe
+C:\Users\matea\OneDrive\Desktop\AUP_projekt\AUP_projekt\obj\Debug\AUP_projekt.pdb
